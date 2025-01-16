@@ -7,7 +7,7 @@ module.exports = {
 		version: "1.0",
 		author: "karan jalvanshi",
 		role: 2,
-		category: "texts",
+		category: "owner",
 		guide: {
 			vi: "Not Available",
 			en: "cpx @(mention)"
