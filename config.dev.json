@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "lakashanti@gmail.com",
-    "password": "lakashxanti@1",
+    "email": "ugphonefree656@gmail.com",
+    "password": "vnullxranter",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61570992393398",
-    "61561147903431"
+    "61575982360715",
+    "61575982360715"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Shun",
-  "prefix": "+",
+  "nickNameBot": "V-null on top",
+  "prefix": "∆",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
